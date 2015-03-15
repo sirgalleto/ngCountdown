@@ -1,5 +1,5 @@
 {
-    "name": "ng-countdown",
+    "name": "ngcountdown",
     "version": "0.0.1",
     "main": "dist/ng-countdown.js",
     "description": "A countdown service for Angular.js",
