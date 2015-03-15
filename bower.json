@@ -9,7 +9,7 @@
     "description": "countdown.js services for angular",
     "repository": {
         "type": "git",
-        "url": "http://github.com/svzosorio/ngCountdown"
+        "url": "git://github.com/svzosorio/ngCountdown"
     },
     "keywords": [
         "countdown",
