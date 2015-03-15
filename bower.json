@@ -24,7 +24,7 @@
         "bower_components",
         "test",
         "tests",
-        ".bowerrc",
+        ".bowerrc"
     ],
     "dependencies": {
         "countdownjs": "~2.5.2"
